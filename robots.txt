@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hamnaasif5.netlify.app/sitemap.xml
